@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Lato&display=swap');
+
+*{margin: 0; padding: 0;}
+body{font-family: 'Lato', sans-serif;}
+a{transition: all 0.5s ease-out; -webkit-transition: all 0.5s ease-out;}
+/* GENERICOS */
+.font14{font-size: 14px;}
+.font16{font-size: 16px;}
+.font20{font-size: 20px;}
+.font22{font-size: 22px;}
+.font24{font-size: 24px;}
+.font26{font-size: 26px;}
+.font28{font-size: 28px;}
+.font30{font-size: 30px;}
+.font-blanca{ color: #ffffff;}
+.font-negra{color: #000000;}
+.font-roja{ color: darkred;}
+.font-azul{ color: #00175a;}
+.titulo{font-family: 'Abril Fatface', cursive; font-size: 40px;}
+.btn-leer{background-color: #000; color: #fff; font-size: 14px; padding: 8px 20px; border: 1px solid #000; border-radius: 6px;}
+.btn-leer:hover{background-color: #fff; color: #000;}
+.btn-enviar{border: 1px solid #000; padding: 8px 30px; font-size: 15px;}
+.btn-enviar:hover{background-color: #000; color: #fff; border: 1px solid #000; padding: 8px 30px; font-size: 15px;}
+.alert{margin-bottom: 0 !important;}
+/* IMG EFECTO */
+.img-block {overflow: hidden;}
+.img-block img {transition: 0.5s;}
+.img-block img:hover {
+    -moz-transform: scale(1.1,1.1);
+    -webkit-transform: scale(1.1,1.1);
+    -o-transform: scale(1.1,1.1);
+    -ms-transform: scale(1.1,1.1);
+}
+/* POPUP */
+.popup-email .element p {margin-bottom: 20px; font-weight: 700;}
+.popup-email .success {color: #74af27; display: block; margin-top: 20px; line-height: normal;}
+.popup-email .error {color: #ea5555; display: block; margin-top: 20px; line-height: normal;}
+ /* OTROS */
+a {transition: all .5s;}
+a:hover{text-decoration: none;}
+.btn-play:hover{color: #000000; opacity: 0.7;}
+.s-alumnos li{font-size: 20px; line-height: 40px;}
+.footer p {margin: 0;}
