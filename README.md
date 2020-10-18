@@ -1,7 +1,7 @@
 # DaVinci-ProgVisual-III-Final
 Proyecto final para la materia de Programación Visual III
 
-El proyecto seria como un banco de musica tecno.
+El proyecto seria como un banco de musica tecno en la que podes ver a tus artistas favoritos y escuchar los tracks de cada uno.
 
 La web levanta todos los datos desde la base.
 <br>
